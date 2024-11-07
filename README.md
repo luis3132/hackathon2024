@@ -83,7 +83,7 @@ Implementaremos una base de datos para relacionar la lista de estudiantes, curso
 ---
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1XafZq6rmFX2NmCPgM2JjHh7wnUMc972C/view?usp=drive_link" alt="TechTitans Logo" width="200" />
+  <img src="https://drive.google.com/file/d/1XafZq6rmFX2NmCPgM2JjHh7wnUMc972C/view?usp=sharing" alt="TechTitans Logo" width="200" />
 </p>
 
 
