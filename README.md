@@ -26,7 +26,7 @@ Bienvenidos a la presentación de nuestro equipo. Somos un grupo de cinco Campis
       <a href="https://www.linkedin.com/in/luis-andres-gonzalez-corzo-354498238/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="https://drive.google.com/file/d/1vgYpOhjQ8w0Vu6eyEtfUoB0eDHCtd-ne/view?usp=drive_link" alt="Álvaro" width="90" height="90" style="border-radius: 50%;" /><br>
+      <img src="[![Alvaro-SF.png](https://i.postimg.cc/kDrVdNy0/Alvaro-SF.png)](https://postimg.cc/kRcMQbzs)" alt="Álvaro" width="90" height="90" style="border-radius: 50%;" /><br>
       <b>BackEnd Dev</b><br>
       <p>Alfonso Sánchez</p>
       <a href="https://www.linkedin.com/in/alfonso-sanchez-92a24130b/">LinkedIn</a>
