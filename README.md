@@ -20,13 +20,13 @@ Bienvenidos a la presentación de nuestro equipo. Somos un grupo de cinco Campis
 <table align="center">
   <tr>
     <td align="center">
-      <img src="Luis_SF.png" alt="Luis" width="90" height="90" style="border-radius: 50%;" /><br>
+      <img src="https://drive.google.com/file/d/1NXs4GyRNXl-m-qBZKJl4dd0O6gqFhZL_/view?usp=drive_link" alt="Luis" width="90" height="90" style="border-radius: 50%;" /><br>
       <b>TechLead</b><br>
       <p>Luis González</p>
       <a href="https://www.linkedin.com/in/luis-andres-gonzalez-corzo-354498238/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="Alvaro_SF.png" alt="Álvaro" width="90" height="90" style="border-radius: 50%;" /><br>
+      <img src="https://drive.google.com/file/d/1vgYpOhjQ8w0Vu6eyEtfUoB0eDHCtd-ne/view?usp=drive_link" alt="Álvaro" width="90" height="90" style="border-radius: 50%;" /><br>
       <b>BackEnd Dev</b><br>
       <p>Alfonso Sánchez</p>
       <a href="https://www.linkedin.com/in/alfonso-sanchez-92a24130b/">LinkedIn</a>
@@ -38,13 +38,13 @@ Bienvenidos a la presentación de nuestro equipo. Somos un grupo de cinco Campis
       <a href="https://www.linkedin.com/in/julianaramirezarenas/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="foto_Alejo-sf.png" alt="Alejandro" width="90" height="90" style="border-radius: 50%;" /><br>
+      <img src="https://drive.google.com/file/d/1WO1yumhREMGSqllzgvPaig65wj99irg5/view?usp=drive_link" alt="Alejandro" width="90" height="90" style="border-radius: 50%;" /><br>
       <b>UX/UI</b><br>
       <p>Alejandro Corchuelo</p>
       <a href="https://www.linkedin.com/in/alejandro-corchuelo/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="fabian_SF.png" alt="Fabián" width="90" height="90" style="border-radius: 50%;" /><br>
+      <img src="https://drive.google.com/file/d/1-hIrVyFtYhSGivn2PNxCTDuZMvBeDgfT/view?usp=drive_link" alt="Fabián" width="90" height="90" style="border-radius: 50%;" /><br>
       <b>Frontend Dev</b><br>
       <p>Fabián Jiménez</p>
       <a href="https://www.linkedin.com/in/edgar-jimenez-a929152a8/">LinkedIn</a>
@@ -77,13 +77,13 @@ Implementaremos una base de datos para relacionar la lista de estudiantes, curso
 <h1 align="center">🗳️ El problema no es que votes, el problema es que no sea por los TechTitans 🗳️</h1>
 
 <p align="center">
-  <img src="robot1.png" alt="TechTitans Robot" width="200" />
+  <img src="https://drive.google.com/file/d/1NDb3WrLzCRMyL7l2qOpHVqWt9_X4Ye80/view?usp=drive_link" alt="TechTitans Robot" width="200" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="Logo TechTitans1.png" alt="TechTitans Logo" width="200" />
+  <img src="https://drive.google.com/file/d/1XafZq6rmFX2NmCPgM2JjHh7wnUMc972C/view?usp=drive_link" alt="TechTitans Logo" width="200" />
 </p>
 
 
