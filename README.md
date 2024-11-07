@@ -1,3 +1,92 @@
+<p align="center">
+  <img src="Logo TechTitans.png" alt="TechTitans Logo" width="200" />
+</p>
+
+# 💻 Bienvenidos a la nueva era de la tecnología 💻
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Misión-Innovar%20%7C%20Transformar%20%7C%20Potenciar-blueviolet" />
+  <img src="https://img.shields.io/badge/Especialidad-informational" />
+  <img src="https://img.shields.io/badge/-TechTitans-green" />
+</p>
+
+🔥 Somos un equipo dedicado a la innovación tecnológica, combinando desarrollo fullstack e inteligencia artificial. 🔥
+
+---
+
+## 🤖 Conoce al Equipo TechTitans 🤖
+Bienvenidos a la presentación de nuestro equipo. Somos un grupo de cinco Campistas. Cada miembro aporta su energía y talento para hacer de los TechTitans un equipo imparable. 🚀
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Luis_SF.png" alt="Luis" width="90" height="90" style="border-radius: 50%;" /><br>
+      <b>TechLead</b><br>
+      <p>Luis González</p>
+      <a href="https://www.linkedin.com/in/luis-andres-gonzalez-corzo-354498238/">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="Alvaro_SF.png" alt="Álvaro" width="90" height="90" style="border-radius: 50%;" /><br>
+      <b>BackEnd Dev</b><br>
+      <p>Alfonso Sánchez</p>
+      <a href="https://www.linkedin.com/in/alfonso-sanchez-92a24130b/">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/P50s0W6w/Disen-o-sin-ti-tulo-13.png" alt="Juliana" width="90" height="90" style="border-radius: 50%;" /><br>
+      <b>Project Manager</b><br>
+      <p>Juliana Ramírez Arenas</p>
+      <a href="https://www.linkedin.com/in/julianaramirezarenas/">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="foto_Alejo-sf.png" alt="Alejandro" width="90" height="90" style="border-radius: 50%;" /><br>
+      <b>UX/UI</b><br>
+      <p>Alejandro Corchuelo</p>
+      <a href="https://www.linkedin.com/in/alejandro-corchuelo/">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="fabian_SF.png" alt="Fabián" width="90" height="90" style="border-radius: 50%;" /><br>
+      <b>Frontend Dev</b><br>
+      <p>Fabián Jiménez</p>
+      <a href="https://www.linkedin.com/in/edgar-jimenez-a929152a8/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 El Problema no es el Curso, el Problema es Aplicarlo 🚀
+### Desafío:
+Optimizar la gestión y asignación de salones, cursos y profesores de manera eficiente, asegurando visibilidad en tiempo real y fácil manejo de los recursos disponibles. 💡✨
+
+La Dirección Académica de la Asociación Nacional para el Desarrollo - ASOANDES se enfrenta a retos en la planificación y asignación de salones, cursos y profesores, debido a la creciente demanda de estudiantes y cursos. Con un horario de clases desde las 7:00 am hasta las 10:00 pm y aproximadamente 30 salones en expansión, la gestión manual resulta cada vez más complicada y susceptible a errores. 
+
+Una plataforma centralizada permitiría al equipo académico organizar cursos de manera rápida, asignar profesores y optimizar los recursos. La falta de automatización genera demoras y complica la respuesta a cambios de último momento.
+
+### Solución:
+Implementaremos una base de datos para relacionar la lista de estudiantes, cursos, profesores y salones, con un sistema que permita gestionar hasta 30 alumnos por curso o 130 en modalidad virtual. La plataforma asegurará una asignación eficiente de espacios y profesores, con una interfaz amigable para el equipo administrativo y visibilidad integral de los recursos.
+
+---
+
+## 🛠️ Herramientas Utilizadas
+- Visual Studio Code
+- Terminal
+- Navegador web
+
+---
+
+<h1 align="center">🗳️ El problema no es que votes, el problema es que no sea por los TechTitans 🗳️</h1>
+
+<p align="center">
+  <img src="robot1.png" alt="TechTitans Robot" width="200" />
+</p>
+
+---
+
+<p align="center">
+  <img src="Logo TechTitans1.png" alt="TechTitans Logo" width="200" />
+</p>
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
