@@ -76,11 +76,6 @@ Implementaremos una base de datos para relacionar la lista de estudiantes, curso
 
 <h1 align="center">🗳️ El problema no es que votes, el problema es que no sea por los TechTitans 🗳️</h1>
 
-<p align="center">
-  <img src="https://i.postimg.cc/v8CXmp2s/robot1.png" alt="TechTitans Robot" width="200" />
-</p>
-
----
 
 <p align="center">
   <img src="https://i.postimg.cc/BvhBfyPR/Logo-Tech-Titans1.png" alt="TechTitans Logo" width="200" />
