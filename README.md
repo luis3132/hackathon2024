@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo TechTitans.png" alt="TechTitans Logo" width="200" />
+   <img src="https://i.postimg.cc/BvhBfyPR/Logo-Tech-Titans1.png" alt="TechTitans Logo" width="200" />
 </p>
 
 # 💻 Bienvenidos a la nueva era de la tecnología 💻
