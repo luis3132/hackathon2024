@@ -20,7 +20,7 @@ Bienvenidos a la presentación de nuestro equipo. Somos un grupo de cinco Campis
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://drive.google.com/file/d/1NXs4GyRNXl-m-qBZKJl4dd0O6gqFhZL_/view?usp=drive_link" alt="Luis" width="90" height="90" style="border-radius: 50%;" /><br>
+      <img src="https://i.postimg.cc/59Xnbx3g/Luis-SF.png" alt="Luis" width="90" height="90" style="border-radius: 50%;" /><br>
       <b>TechLead</b><br>
       <p>Luis González</p>
       <a href="https://www.linkedin.com/in/luis-andres-gonzalez-corzo-354498238/">LinkedIn</a>
